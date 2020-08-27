@@ -1,16 +1,21 @@
-### Hi there 👋
+# HaSeung
+## About Me
 
-<!--
-**HaSeung101/HaSeung101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+16y/o from Korea. Want to go into AI and Cyber Security. I'm just chillin' most of the times.
 
-Here are some ideas to get you started:
+## Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Discord**: [Click Here](https://discord.com/users/242663992949080075)
+
+- **YouTube**: [Click Here](https://www.youtube.com/channel/UCcuiCq3HdafsHd9U7-uGSuA)
+
+- **Twitch**: [Click Here](https://www.twitch.tv/junwastaken_)
+
+- **Twitter**: [Click Here](https://twitter.com/absolutejames_)
+
+## Goals
+
+- [X] Get a new PC
+- [ ] Fully learn Python
+- [ ] Learn a new language e.g Java or C#
+- [ ] Make my own project using a Raspberry Pi or an Arduino
