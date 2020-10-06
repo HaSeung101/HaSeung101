@@ -11,8 +11,6 @@
 
 - **Twitch**: [Click Here](https://www.twitch.tv/junwastaken_)
 
-- **Twitter**: [Click Here](https://twitter.com/absolutejames_)
-
 ## Goals
 
 - [X] Get a new PC
