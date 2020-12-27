@@ -5,7 +5,7 @@
 
 ## Socials
 
-- **Discord**: [Click Here](https://discord.com/users/242663992949080075)
+- **Discord**: [Click Here](https://discord.com/users/201787864306941952)
 
 - **YouTube**: [Click Here](https://www.youtube.com/channel/UCcuiCq3HdafsHd9U7-uGSuA)
 
