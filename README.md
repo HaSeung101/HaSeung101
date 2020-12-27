@@ -9,7 +9,7 @@
 
 - **YouTube**: [Click Here](https://www.youtube.com/channel/UCcuiCq3HdafsHd9U7-uGSuA)
 
-- **Twitch**: [Click Here](https://www.twitch.tv/junwastaken_)
+- **Twitch**: [Click Here](https://www.twitch.tv/haseung_)
 
 ## Goals
 
