@@ -14,6 +14,5 @@
 ## Goals
 
 - [X] Get a new PC
-- [ ] Fully learn Python
+- [X] Fully learn Python
 - [ ] Learn a new language e.g Java or C#
-- [ ] Make my own project using a Raspberry Pi or an Arduino
