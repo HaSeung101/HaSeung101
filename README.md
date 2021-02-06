@@ -1,7 +1,7 @@
 # HaSeung
 ## About Me
 
-16y/o from Korea. Want to go into AI and Cyber Security. I'm just chillin' most of the times.
+QWERTY
 
 ## Socials
 
